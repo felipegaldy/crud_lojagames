@@ -1,4 +1,4 @@
-# Projeto Blog Pessoal
+# Projeto Backend Loja de Games
 
 ## Projeto desenvolvido durante o Bootcamp FullStack Java Developer da Generation Brasil
 ### Agradecimentos a JeskaLopes e Jacque Fernandes - Instrutoras 
@@ -20,7 +20,7 @@
 - [x] Criar projeto Maven
 - [x] Adicionar dependencias
 - [x] Configurar conexão com banco de dados MySQL
-- [x] Criar classes Postagem, Tema. Adicionar atributos e relações entre as tabelas
+- [x] Criar classes, Adicionar atributos e relações entre as tabelas
 - [x] CRUD <3
 - [x] Testes no Postman
 - [ ] Criar classe usuário e adicionar dependencias de segurança com Spring Security
